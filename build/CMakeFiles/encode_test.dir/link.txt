@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/encode_test.dir/src/main.cpp.o  -o encode_test   -L/home/sx/Desktop/EncodeTest/lib  -Wl,-rpath,/home/sx/Desktop/EncodeTest/lib -lmultimedia 

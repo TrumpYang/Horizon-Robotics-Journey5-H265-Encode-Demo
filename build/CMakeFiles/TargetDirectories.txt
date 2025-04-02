@@ -1,0 +1,3 @@
+/home/sx/Desktop/EncodeTest/build/CMakeFiles/rebuild_cache.dir
+/home/sx/Desktop/EncodeTest/build/CMakeFiles/edit_cache.dir
+/home/sx/Desktop/EncodeTest/build/CMakeFiles/encode_test.dir

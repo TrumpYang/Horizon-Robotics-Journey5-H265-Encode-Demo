@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hb_media_basic_types.h
+stdint.h
+-
+
+../include/hb_media_codec.h
+hb_media_basic_types.h
+../include/hb_media_basic_types.h
+
+../include/hb_media_error.h
+errno.h
+-
+stddef.h
+-
+hb_media_basic_types.h
+../include/hb_media_basic_types.h
+
+/home/sx/Desktop/EncodeTest/src/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+stdint.h
+-
+time.h
+-
+iostream
+-
+hb_media_codec.h
+/home/sx/Desktop/EncodeTest/src/hb_media_codec.h
+hb_media_error.h
+/home/sx/Desktop/EncodeTest/src/hb_media_error.h
+sys/time.h
+-
+
